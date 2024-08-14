@@ -5,7 +5,6 @@ from cryptography.hazmat.primitives import padding
 
 # 
 # Name: Emma Shortt
-# Student Number: 1095620
 # Program Name: aes-decrypt.py
 # How to run: 
 # python3 -m venv my_env
