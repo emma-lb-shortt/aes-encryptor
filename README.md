@@ -24,4 +24,4 @@
 - ECB
 - CBC
 - GCM
-<img width="866" alt="Screenshot of code running" src="https://github.com/user-attachments/assets/0905fa59-c66d-40af-b7e2-417cb41e7d1f">
+<img width="864" alt="Screenshot of code running" src="https://github.com/user-attachments/assets/b0a25d3a-c881-4b8d-96b2-9fc748424dbb">
